@@ -129,8 +129,7 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base-9.4.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision-9.4.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-wallet-9.4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:multidex-1.0.0" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:multidex-1.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:multidex-1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-auth-9.4.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-storage-9.4.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-analytics-impl-9.4.0" level="project" />
@@ -140,7 +139,6 @@
     <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-nearby-9.4.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-messaging-9.4.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:multidex-instrumentation-1.0.2" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7-23.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cast-framework-9.4.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gcm-9.4.0" level="project" />

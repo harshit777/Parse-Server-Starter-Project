@@ -1,6 +1,6 @@
 #Internal package file, do not edit.
-#Tue May 15 15:45:02 IST 2018
-1.base=A\:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+#Thu May 17 23:03:31 IST 2018
+1.base=A\:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\14
 2.path=classes.dex
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
@@ -14,6 +14,6 @@ count=4
 0.path=classes.dex
 3.base=A\:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 0.set=DEX
-0.base=A\:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+0.base=A\:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\16
 2.baseType=DIRECTORY
 1.path=classes.dex

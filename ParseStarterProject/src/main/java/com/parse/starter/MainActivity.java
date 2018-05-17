@@ -44,6 +44,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
   EditText usernameEditText;
   EditText passwordEditText;
 
+  //After login and SignUp session list view is displayed on success
+  public void showUserList() {
+    Intent intent =new Intent(getApplicationContext(), userListActivity.class);
+     startActivity(intent);
+
+  }
+
+
  //key listener for the keyboard to shift the cursor from the keyboard
   @Override
   public boolean onKey(View view, int i, KeyEvent keyEvent) {
@@ -101,6 +109,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
           public void done(ParseException e) {
             if (e == null) {
               Log.i("SignUp", "Success");
+              showUserList();
             } else {
               Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
             }
@@ -115,6 +124,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
           public void done(ParseUser user, ParseException e) {
             if(user !=null){
               Log.i("Login", "ok");
+              showUserList();
+
             } else {
               Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
             }
@@ -129,6 +140,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+    setTitle("Instagram");
+
     loginTextView =(TextView) findViewById(R.id.loginTextView);
     loginTextView.setOnClickListener(this);
 
@@ -142,7 +155,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     passwordEditText.setOnKeyListener(this);
 
+    //Checking for already signed User and showing list view
 
+    if(ParseUser.getCurrentUser() != null)
+    {
+      Log.i("SignedIn", ParseUser.getCurrentUser().getUsername());
+      showUserList();
+    } else {
+      Log.i("No Luck", "Not signed In");
+    }
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }

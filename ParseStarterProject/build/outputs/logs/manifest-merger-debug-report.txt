@@ -1,15 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\df91d55bb8d46b11c32ba7cebea6a591\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\01bdaeb525c5ffb58cee4406a7b4d204\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\a0a16378d8d2b569b27e91a07a5b964a\AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\0046b528c6aefd429bf61b4d15c86804\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8f4fc09a0607ea2162b6cc83c764c99d\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\f08e9b185ba2fbf85cadc6bfff2b4f99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\00f799aa14b57c8173caff155d23ff60\AndroidManifest.xml:16:1-19:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\727a57371326fe89da751c4a47659476\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\78559f870b6f16b764b1d9116c5f2394\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\16fae15cf631fa1b403e5dee048758d0\AndroidManifest.xml:16:1-33:12
@@ -58,20 +58,20 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Harshit\.
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\23f161865040b3e1f6ee3b4b9abb1667\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0c13b50e8b8015c78219b281f0ece5b7\AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\5237e197794688f1e0fc6025dd86df7a\AndroidManifest.xml:17:1-24:12
-INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 	package
 		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 		INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 		INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
@@ -134,7 +134,7 @@ ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\sr
 	android:name
 		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
 application
-ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:5-33:19
+ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:5-34:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\df91d55bb8d46b11c32ba7cebea6a591\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\df91d55bb8d46b11c32ba7cebea6a591\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\01bdaeb525c5ffb58cee4406a7b4d204\AndroidManifest.xml:5:5-9:19
@@ -250,9 +250,13 @@ ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\sr
 	android:name
 		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
 activity#com.parse.starter.userListActivity
-ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:9-63
+ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:9-54
 	android:name
 		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:19-51
 uses-sdk
 INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from A:\android studio\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
@@ -267,8 +271,8 @@ MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Harshit\.gradle
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\0046b528c6aefd429bf61b4d15c86804\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8f4fc09a0607ea2162b6cc83c764c99d\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8f4fc09a0607ea2162b6cc83c764c99d\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\f08e9b185ba2fbf85cadc6bfff2b4f99\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\f08e9b185ba2fbf85cadc6bfff2b4f99\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\00f799aa14b57c8173caff155d23ff60\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\00f799aa14b57c8173caff155d23ff60\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\727a57371326fe89da751c4a47659476\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\727a57371326fe89da751c4a47659476\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Harshit\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\78559f870b6f16b764b1d9116c5f2394\AndroidManifest.xml:19:5-42

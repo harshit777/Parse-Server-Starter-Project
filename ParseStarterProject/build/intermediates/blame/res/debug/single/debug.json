@@ -176,10 +176,6 @@
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\8f4fc09a0607ea2162b6cc83c764c99d\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
-        "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\8f4fc09a0607ea2162b6cc83c764c99d\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\fdf3d0c49490e342ffe3857d90459c27\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
@@ -808,10 +804,6 @@
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0046b528c6aefd429bf61b4d15c86804\\res\\drawable-mdpi\\ic_cast_disabled_light.png"
     },
     {
-        "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
-        "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\8f4fc09a0607ea2162b6cc83c764c99d\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_skip_next.xml.flat",
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\01bdaeb525c5ffb58cee4406a7b4d204\\res\\drawable\\cast_ic_notification_skip_next.xml"
     },
@@ -1020,6 +1012,10 @@
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0046b528c6aefd429bf61b4d15c86804\\res\\drawable-hdpi\\ic_play_dark.png"
     },
     {
+        "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",
+        "source": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\8f4fc09a0607ea2162b6cc83c764c99d\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1138,6 +1134,10 @@
     {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_mr_ic_play_light.xml.flat",
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0046b528c6aefd429bf61b4d15c86804\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
+        "source": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
     },
     {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_small_off_client.png.flat",
@@ -1976,10 +1976,6 @@
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\fdf3d0c49490e342ffe3857d90459c27\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_mr_media_route_list_item.xml.flat",
-        "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0046b528c6aefd429bf61b4d15c86804\\res\\layout\\mr_media_route_list_item.xml"
-    },
-    {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\fdf3d0c49490e342ffe3857d90459c27\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
@@ -2234,10 +2230,6 @@
     {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_route_off_mono_dark.png.flat",
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\0046b528c6aefd429bf61b4d15c86804\\res\\drawable-mdpi\\ic_media_route_off_mono_dark.png"
-    },
-    {
-        "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_fragment.xml.flat",
-        "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\eb1b448703b8639b56aa86ad23ac1bfa\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
@@ -2794,10 +2786,6 @@
     {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_volume_mute_grey600_36.png.flat",
         "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\01bdaeb525c5ffb58cee4406a7b4d204\\res\\drawable-mdpi-v4\\quantum_ic_volume_mute_grey600_36.png"
-    },
-    {
-        "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\Harshit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\8f4fc09a0607ea2162b6cc83c764c99d\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "A:\\android studio\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
